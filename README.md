@@ -1,6 +1,7 @@
 [1]:https://en.wikipedia.org/wiki/42_(school)
 # Libft project for [42 school][1].
 [2]:https://1337.ma/en/
+[3]:https://github.com/Gabriel-Em/42_AcademyPlus---Libft---/blob/master/Libft%20-%20Subject(EN).pdf
 <img src="https://wallpaperaccess.com/full/5487854.jpg" alt="image" style="max-width: 100%;">
 
 ### TOC
@@ -20,7 +21,7 @@ Disclaimer: *Reinventing the wheel is bad, 42 makes us do this just so we can ha
 
 ## What is in it?
 
-According to [project's pdf][1] there should be 4 sections:
+According to [project's pdf][3] there should be 4 sections:
 
 1.  **Libc Functions:** Some of the standard C functions.
 2.  **Additional functions:** Functions 42 deems will be useful for later projects.
