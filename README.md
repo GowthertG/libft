@@ -26,24 +26,6 @@ According to [project's pdf][1] there should be 4 sections:
 3.  **Bonus Functions:** Functions 42 deems will be useful for linked list manipulation.
 4.  **Personal Functions:** Functions I believe will be useful later.
 
-# Classification
-
-However, I've decided reorganize and combined functions to several folders:
-
-1. **chars:** Basic functions to work with _char_ type
-2. **get_next_line:** GNL project integrated into libft for convenience. See [project page][GNL]
-3. **math:** Basic math functions. (This part will be ~~probably~~ extended in the future). See [notes](#notes)
-4. **memory:** Memory operations(allocation, freeing etc.)
-5. **output:** Functions for printing output (except for ft_printf)
-6. **ft_printf:** My implementation of printf functions. See [project page][printf]
-7. **list:** Functions for manipulations with linked lists.
-8. **matrix:** Functions for manipulation with generic matrix. See [notes](#notes)
-9. **numbers:** Functions related to integer number types(shor, int etc.).
-10. **strings:** Part of <string.h> functions and addition functions which I deemed useful to work with string.
-11. **structures**: My implementation of some data structures(queue, stack etc.)
-
-My code is not the best, but it passed all the 42 tests successfully and I successfully used in my [other 42 projects](#example-usage)
-
 # Notes:
 
 - Most of the the files and function names are namespaced with an **ft** in front. It stands for Forty Two
