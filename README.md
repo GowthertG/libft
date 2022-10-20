@@ -1,6 +1,5 @@
 # Libft project for 42 school.
 <img src="https://wallpaperaccess.com/full/5487854.jpg" alt="image" style="max-width: 100%;">
- [![Build Status](https://travis-ci.org/IvanKozlov95/libft.svg?branch=master)](https://travis-ci.org/IvanKozlov95/libft)
 
 ### TOC
 
