@@ -26,10 +26,3 @@ According to [project's pdf][3] there should be 4 sections:
 1.  **Libc Functions:** Some of the standard C functions.
 2.  **Additional functions:** Functions 42 deems will be useful for later projects.
 3.  **Bonus Functions:** Functions 42 deems will be useful for linked list manipulation.
-4.  **Personal Functions:** Functions I believe will be useful later.
-
-# Notes:
-
-- Most of the the files and function names are namespaced with an **ft** in front. It stands for Forty Two
-- The project instructions require that we put all the source files in the root directory but for the sake of this Github repo, I separate them into sub folders according to classification above.
-- I update this list almost every month with new personal functions. If you don't know what a function does, refer to the [Wiki][mock], where I document all my personal functions.
