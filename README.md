@@ -1,5 +1,5 @@
 # Libft project for 42 school.
-[1]:https://docs.readme.com/docs/linking-to-pages#:~:text=To%20link%20inline%2C%20type%20the,%2C%20%22(y)%22.
+[1]:https://1337.ma/en/
 <img src="https://wallpaperaccess.com/full/5487854.jpg" alt="image" style="max-width: 100%;">
 
 ### TOC
